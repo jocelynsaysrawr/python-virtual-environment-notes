@@ -13,6 +13,8 @@
 
 * `mkdir <project name> && cd <project name>`
     * create a new project directory and cd into it
+* `sudo apt-get install python3-venv`
+    * install python3-venv package
 * `python3 -m venv env`
     * create a new virtual environment inside of the project directory
     * each folder contains:
